@@ -1,4 +1,4 @@
-Speech Translator Tkinter
+#Speech Translator Tkinter
 
 This program is a GUI application based on Tkinter that allows audio recording, speech recognition, 
 text translation, and displays both the original and translated text in real-time.
@@ -14,7 +14,7 @@ text translation, and displays both the original and translated text in real-tim
 
 
 
-Speech Translator Bash 
+#Speech Translator Bash 
 This script is a command-line tool that allows for audio recording, speech recognition, translation of recognized text, and texting translated to bash line.
 
 **Key Features:**
@@ -25,7 +25,7 @@ This script is a command-line tool that allows for audio recording, speech recog
 - **Multi-threading support** for simultaneous recording, translation
 
 
-Speech Translator Audio 
+#Speech Translator Audio 
 This script is a command-line tool that allows for audio recording, speech recognition, translation of recognized text, and playback of the translated text as speech.
 
 **Key Features:**
