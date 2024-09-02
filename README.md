@@ -39,8 +39,8 @@ Multi-threading support for simultaneous recording, translation, and playback of
 
 ## Requirements: 
 Python 3.x
-**Speech Translator Tkinger** 
-pip install speechrecognition googletrans==4.0.0-rc1 gtts playsound tkinter
+**Speech Translator Tkinter** 
+pip install speechrecognition googletrans==4.0.0-rc1 gtts  tkinter
 
 **Speech translator bash**
 pip install speechrecognition googletrans
